@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "83237936417",
+    "project_id": "dopsi-456ef",
+    "storage_bucket": "dopsi-456ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83237936417:android:704c1fa301fbfbd46cf260",
+        "android_client_info": {
+          "package_name": "com.example.dopsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83237936417-s29q58mmb44bvqjqbpsrbj7c7r3r0ibf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdoTBe_WD2oCgtpKSIoOrSsdzXnYTL1FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83237936417-nakdh1p1onmhvegkppal1mcp3u92g049.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83237936417-pbuqmd9iec2og65q3f0l7l1305c6ftra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dopsi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
